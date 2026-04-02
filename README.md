@@ -14,11 +14,3 @@ A passionate full-stack developer, designer, and CS student.
         <img src="https://skillicons.dev/icons?i=rust,typescript,python,bun,tauri,nextjs,svelte,react,elysia,nodejs,gcp,figma" />
     </a>
 </div>
-
-<br/>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xerosf&langs_count=4&layout=compact&theme=radical" alt="Sansith's Top Languages" />
-</div>
-
----

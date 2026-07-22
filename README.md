@@ -1,16 +1,17 @@
-# I'm Sansith Fernando
+# Hi, I'm Sansith Fernando 👋
 
-A passionate full-stack developer, designer, and CS student.
+Full-stack software engineer, designer, and CS undergraduate focused on building thoughtful, high-quality digital experiences.
 
-- 🔭 I’m currently working on [Nymo](https://nymo.lk)
-- ✨ Check out my [portfolio](https://xerosf.dev) website.
-- 🌱 I’m currently learning **Rust, Svelte, and Tauri**
-- 📫 How to reach me: **sansith.fernando@gmail.com**
+- 🔭 Explore what I’m building at [xerosf.dev](https://xerosf.dev)
+- 🌱 Currently learning **Rust**, **Svelte**, and **Tauri**
 
-## My Tech Stack
+## Tech Stack
 
-<div align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=rust,typescript,python,bun,tauri,nextjs,svelte,react,elysia,nodejs,gcp,figma" />
-    </a>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=rust,typescript,java,spring,bun,tauri,react,svelte,elysia,gcp,aws,figma&perline=6"
+      alt="Rust, TypeScript, Java, Spring, Bun, Tauri, React, Svelte, Elysia, Google Cloud, AWS, and Figma"
+    />
+  </a>
+</p>

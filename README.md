@@ -10,7 +10,7 @@ Full-stack software engineer, designer, and CS undergraduate focused on building
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=rust,typescript,java,spring,bun,tauri,react,svelte,elysia,gcp,aws,figma&perline=8"
+      src="https://skillicons.dev/icons?i=rust,typescript,java,spring,bun,tauri,react,svelte,elysia,gcp,aws,figma&perline=6"
       alt="Rust, TypeScript, Java, Spring, Bun, Tauri, React, Svelte, Elysia, Google Cloud, AWS, and Figma"
     />
   </a>
